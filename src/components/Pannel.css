@@ -1,0 +1,9 @@
+.pannel {
+  background-color: antiquewhite;
+  border: 2px solid gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+}
